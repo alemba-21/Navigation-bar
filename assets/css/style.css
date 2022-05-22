@@ -14,3 +14,10 @@
     justify-content: center;
 }
 
+nav{
+    background: #fff;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 0 25px 50px;
+
+}
