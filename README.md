@@ -3,18 +3,26 @@
 ## By Alemba Alex
 
 ## Screenshot
-![image](./images/Screenshot%20from%202022-05-22%2004-41-15.png)
+![image](./images/Screenshot%20from%202022-05-22%2005-32-17.png)
 
 ## Table of Content
 
 -[Description](#description)
+
 -[Features](#features)
+
 -[Behaviour Driven Development](#Behaviour-Driven-Development)
+
 -[Requirements](#requirements)
+
 -[Installation process](#installation-process)
+
 -[Live Link](#Live-Link)
+
 -[Technology Used](#technology-Used)
+
 -[Licence](#licence)
+
 -[Authors Info](#Authors-info)
 
 ## Description
