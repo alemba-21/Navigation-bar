@@ -18,6 +18,38 @@ nav{
     background: #fff;
     border-radius: 50px;
     padding: 10px;
-    box-shadow: 0 25px 50px;
+    box-shadow: 0 25px 70px;
 
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding:13px 35px;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    color: darkgrey;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+}
+
+nav ul li::after{
+    content: '';
+    background: #f44566;
+    width: 100%;
+    height: 7vh;
+    border-radius: 30px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 0;
+}
+
+nav ul li:hover{
+    color: #fff;
+    
 }
